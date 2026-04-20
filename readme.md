@@ -76,5 +76,6 @@ We implement and evaluate five classification algorithms:
 - Precision & Recall (focus on default prediction)
 
 ---
+### DISCLAIMER: This is a university project, I'm only sharing my results, methodoly and the written report that was asked of me.
 
-## 📁 Repository Structure
+## Made by Youssef Bechara
